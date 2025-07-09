@@ -35,17 +35,13 @@ I enjoy working on projects that blend **clean architecture, user experience, an
 
 ## 📫 Contact
 
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- Blog / Portfolio / Notion: *(Add link here if you have one)*
+- Email: [nenen2ya@khu.ac.kr](mailto:nenen2ya@khu.ac.kr)  
 
 ---
 
 ## 🎯 Goals
 
-- Contribute to meaningful open-source projects  
-- Improve UI/UX design and deployment skills  
-- Build products that people actually use  
-- Turn side projects into polished, scalable apps
+
 
 ---
 
