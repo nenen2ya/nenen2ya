@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Han Hyunbibi!
+# 👋 Hi!
 
-I'm currently a **third-year Computer Science student at Kyung Hee University**, with a strong interest in building real-world applications that solve practical problems.  
-I enjoy working on projects that blend **clean architecture, user experience, and real functionality** — and I’m always eager to learn and grow as a developer.
-
+**A third-year Computer Science student at Kyung Hee University**
 ---
 
 ## 🛠️ Tech Stack
@@ -21,15 +19,13 @@ I enjoy working on projects that blend **clean architecture, user experience, an
 
 ## 💻 Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Expense Splitter App** | A mobile app that automatically splits expenses and calculates real spending among friends using Flutter + Firebase. | Flutter, Firebase |
-| **Local-thon (Local Economy Hackathon)** | Built an Android app using React Native to connect local businesses with users and promote local economic activity. | React Native |
-| **Writely AI Ideathon** | Participated in an ideathon exploring ways to expand the generative AI platform ‘Writely’. Focused on UX and product value. | Planning, Ideation |
-| **Kakao Chat Analyzer** | A Python-based CLI tool that analyzes chat logs and shows how frequently each user uses specific keywords. | Python |
-| **Terminal Tetris** | A classic Tetris game built in Python that runs directly in the terminal. Created as a fun team project in first year. | Python |
-
-> These projects reflect my learning journey — from small scripts to fully functional mobile apps.
+| Project | Tech Stack |
+|---------|------------|
+| **Kakao Chat Analyzer** | Python |
+| **Terminal Tetris** | Python |
+| **WRTN AI Ideathon** | Planning, Ideation |
+| **Pay mate** | Flutter, Firebase |
+| **Local-thon (Local Economy Hackathon)** | React Native |
 
 ---
 
@@ -41,7 +37,7 @@ I enjoy working on projects that blend **clean architecture, user experience, an
 
 ## 🎯 Goals
 
-
+- 이것저것 모든 분야 경험해보기
 
 ---
 
