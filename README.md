@@ -27,7 +27,7 @@
 | **WRTN AI Ideathon** | Planning, Ideation |
 | **Pay mate** | Flutter, Firebase |
 | **Local-thon (Local Economy Hackathon)** | React Native |
-
+| **Insure-pocket (Kiwoom Digital Academy)** | React, FastAPI |
 ---
 
 ## 📫 Contact
